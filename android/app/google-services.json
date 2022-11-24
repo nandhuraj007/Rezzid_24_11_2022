@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "206700097711",
+    "project_id": "integration-3346f",
+    "storage_bucket": "integration-3346f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206700097711:android:b0a244ae108b108401a45a",
+        "android_client_info": {
+          "package_name": "com.integrations.goggleintegration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206700097711-h43ns88kbn6pa1ie650q124jrpsfltu9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.integrations.goggleintegration",
+            "certificate_hash": "3796c674ad8435436a87f21e280273d13a01a30b"
+          }
+        },
+        {
+          "client_id": "206700097711-5cunl4efaume5ca2hdv0hfjfj3clqjv3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWQ4E_CskO5UTuyw2xrA6NLXTnvLMZY64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "206700097711-5cunl4efaume5ca2hdv0hfjfj3clqjv3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
